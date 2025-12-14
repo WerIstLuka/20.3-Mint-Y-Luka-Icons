@@ -1,3 +1,6 @@
+based on https://github.com/WerIstLuka/20.3-Mint-Y-Icons
+
+
 
 Credits
 =======
@@ -53,3 +56,7 @@ To find broken links use `./deadlinks` or:
 To find files with spaces in their filenames (that breaks the icon cache generation):
 
 	find . | egrep '. '
+
+to update from https://github.com/WerIstLuka/20.3-Mint-Y-Icons
+
+	git pull upstream master
