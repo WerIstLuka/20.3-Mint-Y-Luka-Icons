@@ -1,4 +1,5 @@
 based on https://github.com/WerIstLuka/20.3-Mint-Y-Icons
+useful script https://github.com/WerIstLuka/RandomScripts/blob/main/icon-gen.sh
 
 
 
