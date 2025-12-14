@@ -1,0 +1,21 @@
+{
+	"styles": [
+    	{
+            "name": "20.3-Mint-Y-Luka",
+            "icon-themes": [
+    		      {"name": "Blue", "color": "#5b73c4", "theme": "20.3-Mint-Y-Luka-Blue"},
+              {"name": "Aqua", "color": "#6cabcd", "theme": "20.3-Mint-Y-Luka-Aqua"},
+              {"name": "Teal", "color": "#5aaa9a", "theme": "20.3-Mint-Y-Luka-Teal"},
+              {"name": "Green", "color": "#9ab87c", "theme": "20.3-Mint-Y-Luka"},
+              {"name": "Sand", "color": "#c8ac69", "theme": "20.3-Mint-Y-Luka-Sand"},
+              {"name": "Brown", "color": "#aa876a", "theme": "20.3-Mint-Y-Luka-Brown"},
+              {"name": "Grey", "color": "#9d9d9d", "theme": "20.3-Mint-Y-Luka-Grey"},
+              {"name": "Yellow", "color": "#e7bc0d", "theme": "20.3-Mint-Y-Luka-Yellow"},
+              {"name": "Orange", "color": "#db9d61", "theme": "20.3-Mint-Y-Luka-Orange"},
+              {"name": "Red", "color": "#c15b58", "theme": "20.3-Mint-Y-Luka-Red"},
+              {"name": "Pink", "color": "#c76199", "theme": "20.3-Mint-Y-Luka-Pink"},
+              {"name": "Purple", "color": "#8c6ec9", "theme": "20.3-Mint-Y-Luka-Purple"}
+          ]
+        }
+	]
+}

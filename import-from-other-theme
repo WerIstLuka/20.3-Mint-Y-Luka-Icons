@@ -17,7 +17,7 @@ if __name__ == '__main__':
             print ("Unknown icon type: %s" % icontype)
             sys.exit()
 
-        local_theme = "usr/share/icons/20.3-Mint-Y"
+        local_theme = "usr/share/icons/20.3-Mint-Y-Luka"
         if not os.path.exists(local_theme):
             print ("%s not found." % local_theme)
             sys.exit()
