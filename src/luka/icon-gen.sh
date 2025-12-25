@@ -15,7 +15,7 @@ echo "$Output"
 
 for Size in 16 22 24 32 44 48 64 96 128 192 256 512; do
 	mkdir $Size
-	inkscape "$IconName" --export-width="$Size" --export-filename="$Size/$Output.png"
+	ffmpeg -hide_banner -loglevel error -i "$IconName" -vf scale="$Size:-1" "$Size/$Output.png"
 done
 
 mkdir 16@2x 22@2x 24@2x 32@2x 48@2x 64@2x 96@2x 256@2x
