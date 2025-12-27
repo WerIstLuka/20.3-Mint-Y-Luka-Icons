@@ -7,4 +7,4 @@ dpkg-deb --root-owner-group --build "package" > /dev/null
 mv package.deb 20.3-Mint-Y-Luka-Icons.deb
 rm -rf package
 
-tar -czvf 20.3-Mint-Y-Luka-Icons.tar.gz usr/
+tar -czf 20.3-Mint-Y-Luka-Icons.tar.gz usr/
