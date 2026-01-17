@@ -1,0 +1,21 @@
+preferences-desktop-keyboard-shortcuts-symbolic.svg -> keyboard-shortcuts-symbolic.svg
+preferences-other-symbolic.svg -> xapp-toolbox-symbolic.svg
+preferences-system-symbolic.svg -> xapp-tools-symbolic.svg
+preferences-desktop-display-symbolic.svg -> xapp-display-symbolic.svg
+system-search-symbolic.svg -> xapp-search-symbolic.svg
+prefs-preview-symbolic-symbolic.svg -> xsi-preview-symbolic.svg
+nemo-bookmark-not-found-symbolic.svg -> xsi-folder-warning-symbolic.svg
+
+
+
+
+
+
+
+The xapp-prefs- category icons were not converted to xsi-
+https://github.com/linuxmint/nemo/commit/c6b0512404b8fa1daa8ab5dfe4a77beec51f5932
+xapp-prefs-behavior-symbolic
+xapp-prefs-display-symbolic
+xapp-prefs-preview-symbolic
+xapp-prefs-toolbar-symbolic
+xapp-prefs-plugins-symbolic
