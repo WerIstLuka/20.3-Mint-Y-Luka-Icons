@@ -204,6 +204,7 @@ clementine.png <- application-x-clementine.png
 clementine.png <- clementine-playe.png
 clementine.png <- org.clementine_player.Clementine.png
 clock.png <- alarm-clock.png
+clock.png <- clockenstein-calendar.png
 clock.png <- cuckoo.png
 clock.png <- hamster-time-tracker.png
 clock.png <- org.gnome.clocks.png
@@ -370,6 +371,7 @@ gmusicbrowser.png <- org.gmusicbrowser.gmusicbrowser.png
 gnome-books.png <- FBReader.png
 gnome-books.png <- com.github.johnfactotum.Foliate.png
 gnome-books.png <- org.gnome.Books.png
+gnome-books.png <- xepub.png
 gnome-break-timer.png <- com.github.vikdevelop.timer.png
 gnome-clocks.png <- gworldclock.png
 gnome-clocks.png <- org.gnome.clocks.png
