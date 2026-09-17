@@ -373,6 +373,7 @@ gnome-books.png <- com.github.johnfactotum.Foliate.png
 gnome-books.png <- org.gnome.Books.png
 gnome-books.png <- xepub.png
 gnome-break-timer.png <- com.github.vikdevelop.timer.png
+gnome-clocks.png <- clockenstein-clocks.png
 gnome-clocks.png <- gworldclock.png
 gnome-clocks.png <- org.gnome.clocks.png
 gnome-documents.png <- org.gnome.Documents.png
