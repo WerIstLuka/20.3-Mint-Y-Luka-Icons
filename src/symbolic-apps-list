@@ -163,6 +163,7 @@ brave.png <- com.brave.Browser.png
 btsync-gui.png <- bittorrentsync.png
 btsync-gui.png <- btsync-gui-gtk.png
 btsync-gui.png <- btsync-user.png
+calendar.png <- clockenstein-calendar.png
 calendar.png <- date.png
 calendar.png <- dayfolder.png
 calendar.png <- gnome-calendar.png
@@ -204,7 +205,6 @@ clementine.png <- application-x-clementine.png
 clementine.png <- clementine-playe.png
 clementine.png <- org.clementine_player.Clementine.png
 clock.png <- alarm-clock.png
-clock.png <- clockenstein-calendar.png
 clock.png <- cuckoo.png
 clock.png <- hamster-time-tracker.png
 clock.png <- org.gnome.clocks.png
