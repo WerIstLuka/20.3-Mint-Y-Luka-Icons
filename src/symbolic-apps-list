@@ -1082,6 +1082,7 @@ utilities-terminal.png <- konsole.png
 utilities-terminal.png <- lxterminal.png
 utilities-terminal.png <- openterm.png
 utilities-terminal.png <- org.gnome.Terminal.png
+utilities-terminal.png <- org.gnome.Ptyxis.png
 utilities-terminal.png <- qterminal.png
 utilities-terminal.png <- terminal-tango.png
 utilities-terminal.png <- terminal.png
