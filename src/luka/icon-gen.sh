@@ -15,7 +15,7 @@ fi
 
 test -f "$IconName" || ( echo "file $IconName doesnt exist" && exit )
 
-Output=$(echo "$IconName" | cut -f1 -d'.')
+Output=$(basename "$IconName")
 
 for Size in 16 22 24 32 44 48 64 96 128 192 256 512; do
 	if [ -d $Size ]; then true; else
@@ -33,6 +33,7 @@ for dir in 16@2x 22@2x 24@2x 32@2x 48@2x 64@2x 96@2x 256@2x; do
 		mkdir $dir
 	fi
 done
+
 
 cp 32/*  16@2x
 cp 44/*  22@2x;  rm -rf 44
