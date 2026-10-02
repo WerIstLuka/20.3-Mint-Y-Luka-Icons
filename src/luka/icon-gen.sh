@@ -15,7 +15,7 @@ fi
 
 test -f "$IconName" || ( echo "file $IconName doesnt exist" && exit )
 
-Output=$(basename "$IconName")
+Output=$(basename "$IconName" | cut -f 1 -d '.')
 
 for Size in 16 22 24 32 44 48 64 96 128 192 256 512; do
 	if [ -d $Size ]; then true; else
